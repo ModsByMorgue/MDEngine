@@ -1,7 +1,7 @@
 # Markdown To HTML Generating Engine
 Markdown To HTML Generating Tool Written In Pure Java With Bootstrap Customization Supports.
 
-### This Project is deprecated By [Advance markdown](https://github.com/surajsinghbisht054/advance-markdown)
+~### This Project is deprecated By [Advance markdown]~
 
 
 ### Purpose
